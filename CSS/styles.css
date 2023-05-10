@@ -1,0 +1,154 @@
+#ok {
+    text-align: center;
+    line-height: 2;
+    margin-top: 80px;
+}
+.top-container {
+    background-color: #6883BC;
+    position: relative;
+}
+.bottom-container {
+    background-color:#6883BC;
+    margin: 0%;
+    line-height: 4;
+    padding-top: 20px;
+}
+a{
+    margin: 10px 20px;
+    color: #79a7dF;
+    text-decoration: none;
+}
+
+.body {
+    margin: 0%;
+    padding: 0;
+}
+#main-paragraph {
+    color: #F2E8CF;
+    font-size: 1.75rem;
+    font-weight: normal;
+    margin: 50px;
+}
+
+.bottom-paragraph {
+    margin: 0%;
+    color: #F2E8CF;
+    font-size: 0.75rem;
+}
+.contact-me {
+    line-height: 2;
+    margin: 80px auto 80px auto;
+}
+.contact-message {
+    margin-bottom: 60px;
+}
+/************* image selector ******************/
+
+.bottom-cloud {
+    position: absolute;
+
+}
+.top-cloud {
+  position: absolute;
+    padding-top: 50px;
+    right: 300px;
+}
+.html-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.css-image {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.naruto {
+    width: 25%; 
+    float: left;
+    margin-right: 30px;
+}
+
+/*************** header *******************/
+h1{
+    padding-top:175px;
+    margin: 0%;
+    font-family: 'Cinzel Decorative', cursive;
+    color: #F2E8CF;
+    font-size: 3rem;
+}
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Castoro', serif;
+}
+h2{
+    font-family: 'Castoro Titling', cursive;
+    color: #00539CFF;
+}
+
+h3{
+    font-family: 'Castoro Titling', cursive;
+    color: #101820FF;
+}
+/***************** div 2 ******************/
+
+.skill-row-1 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skill-row-2 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+} 
+.skill-row-3 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.skills {
+    text-align: left;
+    line-height: 2;
+}
+.profile {
+    width: 25%;
+    line-height: 2;
+    margin: 100px auto;
+}
+hr {
+    border: none ;
+    border-color: #8A307F;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+}
+a:hover {
+    color:#F2E8CF;
+}
+#op {
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    text-shadow: 0px 0px 0px #005670;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffff;
+    font-size: 20px;
+    padding: 8px;
+    background: #79a7df;
+    text-decoration: none;
+  }
+  
+  #op:hover {
+    background: #79a7df;
+    background-image: -webkit-linear-gradient(top, #79a7df, #1280c9);
+    background-image: -moz-linear-gradient(top, #79a7df, #1280c9);
+    background-image: -ms-linear-gradient(top, #79a7df, #1280c9);
+    background-image: -o-linear-gradient(top, #79a7df, #1280c9);
+    background-image: linear-gradient(to bottom, #79a7df, #1280c9);
+    text-decoration: none;
+
+}
